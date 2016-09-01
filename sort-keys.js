@@ -28,7 +28,7 @@ function factory() {
    *     `undefined` to wipe it.
    *
    * @return {*} A copy of the original value `root` with its properties (and
-   *     all of its descendant properties inserted in canonical order) or, if
+   *     all of its descendant properties) inserted in canonical order or, if
    *     `root` is *not* an object or an array, the original value unmodified
    *     (unless `replacer` modifies it).
    *
