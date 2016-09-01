@@ -1,0 +1,23 @@
+{
+  "name": "sort-keys",
+  "version": "0.0.1",
+  "description": "Sort JavaScript object properties in canonical order for deterministic enumeration.",
+  "main": "sort-keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikol/sort-keys.git"
+  },
+  "author": {
+    "name": "Mikol Graves",
+    "email": "mikol@thinbox.org",
+    "url": "https://mikol.github.io/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/mikol/sort-keys/issues"
+  },
+  "homepage": "https://github.com/mikol/sort-keys#readme"
+}
